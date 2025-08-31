@@ -16,10 +16,10 @@ export default function FollowTwitter() {
         Follow Me on <Image src="/X-Logo.png" className="inline-block invert mb-1" alt="X" width={50} height={50} />
       </h2>
       <h3 className="text-white/70 text-center -mt-5 italic">
-        to see more about what I'm doing.
+        to see more about what I&apos;m doing.
       </h3>
  
-      <Button className="mt-5" onClick={() => window.open("https://x.com/hamzafaisal", "_blank")}>Follow Me</Button>
+      <Button className="mt-5" onClick={() => window.open("https://x.com/Ihmzf", "_blank")}>Follow Me</Button>
  
      
       </div>

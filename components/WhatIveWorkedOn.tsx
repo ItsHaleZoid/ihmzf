@@ -11,7 +11,7 @@ export default function WhatIveWorkedOn() {
   return (
     <div className={`${gabarito.className} flex flex-col items-center justify-center min-h-screen py-20 bg-white`}>
       <h2 className="text-4xl font-semibold text-center text-black mb-8">
-        What I've Worked On
+        What I&apos;ve Worked On
       </h2>
       <div className="max-w-4xl mx-auto">
         <div className="grid grid-cols-2 gap-6">

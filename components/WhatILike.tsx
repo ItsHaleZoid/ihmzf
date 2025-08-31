@@ -24,13 +24,13 @@ export default function WhatILike() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-xl font-medium text-black mb-3">Mathematics</h3>
             <p className="text-black">
-              Mathematics is the greatest thing ever understood by Humans. I hates it in school but when I learned it on my own... I  can't respect it enough.
+              Mathematics is the greatest thing ever understood by Humans. I hates it in school but when I learned it on my own... I  can&apos;t respect it enough.
             </p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-xl font-medium text-black mb-3">Books</h3>
             <p className="text-black">
-              It's the only right and real education. I love Science Fiction, History, Economics, Some Philosophy, and Some heaby technical books.
+              It&apos;s the only right and real education. I love Science Fiction, History, Economics, Some Philosophy, and Some heaby technical books.
             </p>
           </div>
           
