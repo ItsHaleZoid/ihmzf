@@ -66,7 +66,7 @@ export default function Home() {
           
           {/* Tagline */}
           <p className="text-sm md:text-base lg:text-lg text-foreground/80 font-light max-w-2xl leading-relaxed">
-            I love to read history, mathematics, philosphy, sci-fi + technical books.
+            I love to read history, mathematics, philosophy, sci-fi + technical books.
           </p>
           
           {/* Description */}
